@@ -1,0 +1,16 @@
+.counter-control {
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  margin: 16px;
+  padding: 20px;
+  text-align: center;
+  width: 150px;
+}
+
+.counter-control:hover,
+.counter-control:active {
+  background-color: #eee;
+}
